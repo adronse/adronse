@@ -13,10 +13,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Swift | C | C++ 
+- 💻 &nbsp; Python | Swift | C | C++ | Bash | Haskell 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | Typescript
 - 🛢 &nbsp; MySQL | Firebase
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git | Swift
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio Code | Git | Swift | XCode 
 
 <h3> Currently Working at Igolf.one </h3>
 
