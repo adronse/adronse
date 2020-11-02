@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning Swift
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🎓 &nbsp; Studying Computer Science, computer programming.
 - 💼 &nbsp; Swift developer and front-end web developer.
 - 🌱 &nbsp; Enthusiast in mobile development and web development
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
