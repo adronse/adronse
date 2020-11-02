@@ -14,10 +14,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Swift | C | C++ 
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | Typescript
+- 🛢 &nbsp; MySQL | Firebase
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git | Swift
 
 <br>
 
