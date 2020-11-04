@@ -9,7 +9,7 @@
 - 💼 &nbsp; Swift developer and front-end web developer.
 - 🌱 &nbsp; Enthusiast in mobile development and web development
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
