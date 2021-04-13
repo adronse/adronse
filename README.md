@@ -16,7 +16,7 @@
 - 💻 &nbsp; Python | Swift | C | C++ | Bash | Haskell 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | Typescript
 - 🛢 &nbsp; MySQL | Firebase
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio Code | Git | Swift | XCode 
+- 🔧 &nbsp; Swift | PyCharm | Visual Studio Code | Git | XCode 
 
 <h3> Currently Working at Igolf.one </h3>
 
